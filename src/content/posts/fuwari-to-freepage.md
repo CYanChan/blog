@@ -23,3 +23,16 @@ compatibility_date = "2025-11-12" # 当前日期
 ```
 构建完成后打开页面即可，你也可以添加一个自定义域
 ![](../assets/images/fuwari-to-freepage-5.png)
+效果：
+![](../assets/images/fuwari-to-freepage-9.png)
+## Edgeone Pages
+[EdgeOne - 控制台](https://console.tencentcloud.com/edgeone/pages)    
+导入Github仓库后，使用默认参数开始部署即可    
+![](../assets/images/fuwari-to-freepage-6.png)
+然后部署完后添加个自定义域名即可    
+![](../assets/images/fuwari-to-freepage-7.png)
+效果：
+![](../assets/images/fuwari-to-freepage-8.png)
+## Netlify
+注册账号之后一路确认下去即可
+![](../assets/images/fuwari-to-freepage-10.png)
