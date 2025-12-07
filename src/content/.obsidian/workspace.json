@@ -13,12 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/gal-review-zsqlwbcmsnl.md",
+                "file": "posts/fuwari-to-freepage.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "gal-review-zsqlwbcmsnl"
+              "title": "fuwari-to-freepage"
             }
           }
         ]
@@ -185,30 +186,32 @@
   },
   "active": "64dc3bbd2fb4844e",
   "lastOpenFiles": [
-    "assets/images/gal-review-zsqlwbcmsnl-3.png",
-    "assets/images/gal-review-zsqlwbcmsnl-2.png",
-    "assets/images/gal-review-zsqlwbcmsnl-1.png",
+    "assets/images/fuwari-to-freepage-3.png",
+    "assets/images/fuwari-to-freepage-2.png",
+    "assets/images/fuwari-to-freepage-1.png",
+    "assets/images/fuwari-to-freepage.png",
+    "posts/linveo-bf-vps-test.md",
+    "posts/git-pull-local.md",
     "posts/galgame-in-steam.md",
     "posts/gal-review-zsqlwbcmsnl.md",
-    "posts/linveo-bf-vps-test.md",
-    "assets/images/gal-review-zsqlwbcmsnl.png",
-    "assets/images/logo.png",
+    "posts/fuwari-to-freepage.md",
     "posts/未命名.md",
+    "assets/images/git-pull-local-3.png",
+    "assets/images/git-pull-local-2.png",
+    "assets/images/git-pull-local-1.png",
+    "assets/images/git-pull-local.png",
+    "assets/images/linveo-bf-vps-test.png",
+    "未命名",
+    "assets/images/gal-review-zsqlwbcmsnl-3.png",
+    "assets/images/gal-review-zsqlwbcmsnl-2.png",
     "spec/about.md",
     "未命名.md",
-    "assets/images/123.png",
-    "posts/cover.jpg",
-    "posts/guide/cover.jpg",
-    "posts/cover.jpeg",
     "posts/新建文本文档.txt",
-    "posts/guide/cover.jpeg",
-    "posts/guide/1231232312.png",
     "posts/guide",
     "posts/新建文件夹",
     "posts/123.md",
     "spec/新建文本文档.txt",
     "config.ts",
-    "未命名",
     "assets/images",
     "assets",
     "123.md",

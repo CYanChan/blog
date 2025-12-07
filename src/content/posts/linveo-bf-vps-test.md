@@ -5,6 +5,7 @@ description: 今年没新鸡，干脆把去年的德克萨斯续了，再跑一�
 tags:
   - VPS
   - Test
+image: ../assets/images/linveo-bf-vps-test.png
 category: VPS
 draft: false
 ---
