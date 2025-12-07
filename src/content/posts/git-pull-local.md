@@ -62,5 +62,8 @@ origin  git@github.com:CYanChan/blog.git (push)
 ```
 然后推送即可    
 ```bash
+git status
+git add .
+git commit -m "提交说明"
 git push -u origin master
 ```
