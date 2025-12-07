@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "88cd89b23b06ebff",
+    "type": "split",
+    "children": [
+      {
+        "id": "3eb08c9b50a71da2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64dc3bbd2fb4844e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/gal-review-zsqlwbcmsnl.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gal-review-zsqlwbcmsnl"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69a567eeb25fae3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "49306338246ce016",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "758e2b484cd3af8e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6cea99c51066fb5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "59b40e5ef221ca22",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3d9813ea6f65030d",
+    "type": "split",
+    "children": [
+      {
+        "id": "831da0993bf16751",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3668e4af058709e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "spec/about.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "about 的反向链接列表"
+            }
+          },
+          {
+            "id": "9bd3b5b0b604a631",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "spec/about.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "about 的出链列表"
+            }
+          },
+          {
+            "id": "1a887b3fce31ace1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f1f20396234cbbc1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "5bd8bf61fa69b665",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "spec/about.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "about 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "64dc3bbd2fb4844e",
+  "lastOpenFiles": [
+    "assets/images/gal-review-zsqlwbcmsnl-3.png",
+    "assets/images/gal-review-zsqlwbcmsnl-2.png",
+    "assets/images/gal-review-zsqlwbcmsnl-1.png",
+    "posts/galgame-in-steam.md",
+    "posts/gal-review-zsqlwbcmsnl.md",
+    "posts/linveo-bf-vps-test.md",
+    "assets/images/gal-review-zsqlwbcmsnl.png",
+    "assets/images/logo.png",
+    "posts/未命名.md",
+    "spec/about.md",
+    "未命名.md",
+    "assets/images/123.png",
+    "posts/cover.jpg",
+    "posts/guide/cover.jpg",
+    "posts/cover.jpeg",
+    "posts/新建文本文档.txt",
+    "posts/guide/cover.jpeg",
+    "posts/guide/1231232312.png",
+    "posts/guide",
+    "posts/新建文件夹",
+    "posts/123.md",
+    "spec/新建文本文档.txt",
+    "config.ts",
+    "未命名",
+    "assets/images",
+    "assets",
+    "123.md",
+    "欢迎.md",
+    "spec",
+    "posts"
+  ]
+}
