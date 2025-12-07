@@ -34,5 +34,9 @@ compatibility_date = "2025-11-12" # 当前日期
 效果：
 ![](../assets/images/fuwari-to-freepage-8.png)
 ## Netlify
-注册账号之后一路确认下去即可
+注册账号之后一路确认下去即可    
+构建设置这样填写，就能自动部署了    
 ![](../assets/images/fuwari-to-freepage-10.png)
+然后添加一个域名，验证完后netlify会自动帮你申请Let’s Encrypt证书    
+效果：
+![](../assets/images/fuwari-to-freepage-11.png)
